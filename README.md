@@ -1,6 +1,6 @@
 # ES6 exercises
 
-Dear trainees, this repository contains the exercises for
+Dear trainees, This repository contains the exercises for
 [ES6, also known as ES2015](https://262.ecma-international.org/6.0/).
 
 ## Instructions
