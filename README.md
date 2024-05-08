@@ -1,11 +1,7 @@
 # ES6 exercises
 
-Dear trainees, this repository contains the assessment exercises for
+Dear trainees, this repository contains the exercises for
 [ES6, also known as ES2015](https://262.ecma-international.org/6.0/).
-
-## Timeframe
-
-You have **4 hours** to complete this assignment.
 
 ## Instructions
 
